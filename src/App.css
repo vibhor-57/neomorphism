@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  background-color: #dfdfdf;
+}
+
+.App {
+  text-align: center;
+  margin-top: 20em;
+}
+/* 
+.bottom-bar {
+  background-color: #eee;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  max-width: 30em;
+  border-radius: 20px 20px 0 0;
+  padding: 1em 0;
+}
+
+.icon {
+  font-size: 1.5em;
+  padding: 0.5em;
+  margin: 0.5em;
+  margin-top: 0;
+  transition: 0.5s ease-in-out;
+  border-radius: 100%;
+  border: 7px solid #eee;
+}
+
+.icon.active {
+  transform: scale(1.25) translateY(-1em);
+  background: linear-gradient(135deg, #23f, #6589ff);
+  border: 7px solid #dcdcdc;
+  color: white;
+} */
